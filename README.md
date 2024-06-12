@@ -1,10 +1,10 @@
 # special_folder
 This is a special repo made by a special person.
-<h1>I am Debajit Pramanick</h1>
+<h1>I am <b>Debajit Pramanick</b></h1>
 <br>
-<h2 style="color:blue;">I am currently an undergraduate student </h2>
+<h2 >I am currently an <u>undergraduate student</u> </h2>
 <br>
-<h3>Ciizen of <span style="color:orange; font-size:25px;">India</span>.</h3>
+<h3>Ciizen of <b>India</b>.</h3>
 <br>
-<h4>Born to Ride</h4>
+<h4>Born to <i>Ride</i></h4>
  
